@@ -1,0 +1,1 @@
+Get-ChildItem 'path to folder' -Filter *.zip | Expand-Archive -DestinationPath 'path to extract' -Force
