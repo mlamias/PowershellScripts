@@ -9,4 +9,5 @@ This is a collection of random windows powershell scripts
 | ExtractAllZipFilesInADirectory.ps1 | Extract All Zip Files in a Given Directory               |
 | DisplayTextFileLineNumber.ps1      | Display specific line number in text file withe reading entire file |
 | DisplayTextFileLineNumber.ps1      | Display specific line number in text file withe reading entire file |
-| FindStringInTextFile.ps1            | Find a string in a given text file |
+| FindStringInTextFile.ps1           | Find a string in a given text file |
+| FindShortcutHotkeys.ps1            | Finds and returns a list of shortcuts that have hotkeys associated with them in Windows 10 |
